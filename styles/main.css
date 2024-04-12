@@ -1,0 +1,21 @@
+header {
+  background-color: #E50914;
+  color: #000;
+}
+
+table {
+  border: 1px solid #000;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+#serie-row {
+  cursor: pointer;
+}
+
+#serie-row:hover {
+  background-color: #f0f0f0;
+}
+
